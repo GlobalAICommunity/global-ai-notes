@@ -11,7 +11,7 @@
 |27th of February|5PM| --- available slot ---|
 |5th of March|5PM|Accessible deployment with Azure AI Studio|
 |12th of March|--| --- MVP Summit---|
-|18th of March|9AM| --- available slot ---|
+|18th of March|9AM|Forward-Looking Impact of Generative AI on Software Development|
 |26th of March|5PM| --- available slot ---|
 |1th of April|9AM| --- available slot ---|
 |9th of April|5PM| --- available slot ---|
