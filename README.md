@@ -12,7 +12,7 @@
 |5th of March|5PM|||||
 |12th of March|--| --- MVP Summit---||||
 |18th of March|9AM|Forward-Looking Impact of Generative AI on Software Development|||Planned|
-|26th of March|5PM| --- available slot ---||||
+|25th of March|9AM| | Setu Chokshi ||Scheduling|
 |1th of April|9AM| --- available slot ---||||
 |9th of April|5PM| --- available slot ---||||
 |15th of April|9AM| --- available slot ---||||
